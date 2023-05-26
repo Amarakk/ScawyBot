@@ -6,4 +6,4 @@ Bot que publica busca imagens no Google, pega frase com ChatGPT e publica no Twi
 Fiz pq eu quis ლ(╹◡╹ლ) o(〃＾▽＾〃)o
 
 
-##node bot.js <- deve funcionar
+#node bot.js <- deve funcionar
